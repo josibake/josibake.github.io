@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://josibake.github.io/page/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://josibake.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://josibake.github.io/page/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://josibake.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://josibake.github.io/page/contributions/</loc>
+  </url>
+  
+  <url>
+    <loc>https://josibake.github.io/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://josibake.github.io/page/resume/</loc>
+  </url>
+  
+</urlset>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>josibake.io</title>
+    <link>https://josibake.github.io/</link>
+    <description>Recent content on josibake.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>josiahfbaker@gmail.com (Josiah Baker)</managingEditor>
+    <webMaster>josiahfbaker@gmail.com (Josiah Baker)</webMaster>
+    
+	<atom:link href="https://josibake.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Josiah</title>
+      <link>https://josibake.github.io/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>josiahfbaker@gmail.com (Josiah Baker)</author>
+      <guid>https://josibake.github.io/page/about/</guid>
+      <description>With a background in Applied Mathematics and Physics, Josiah’s passion is for problem solving and optimization. His interest in data science came from learning to program and the landscape of problems that have yet to be solved.
+At work, Josiah’s interests are machine learning at scale, Neural Networks, and open source data science tooling. Josiah is also interested in and passionate about fostering the culture necessary to support data science.</description>
+    </item>
+    
+    <item>
+      <title>contributions</title>
+      <link>https://josibake.github.io/page/contributions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>josiahfbaker@gmail.com (Josiah Baker)</author>
+      <guid>https://josibake.github.io/page/contributions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>resume</title>
+      <link>https://josibake.github.io/page/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>josiahfbaker@gmail.com (Josiah Baker)</author>
+      <guid>https://josibake.github.io/page/resume/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
