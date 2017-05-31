@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>josibake.io</title>
-    <link>https://josibake.github.io/</link>
+    <link>http://josibake.io/</link>
     <description>Recent content on josibake.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>josiahfbaker@gmail.com (Josiah Baker)</managingEditor>
     <webMaster>josiahfbaker@gmail.com (Josiah Baker)</webMaster>
     
-	<atom:link href="https://josibake.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://josibake.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About Josiah</title>
-      <link>https://josibake.github.io/page/about/</link>
+      <link>http://josibake.io/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>josiahfbaker@gmail.com (Josiah Baker)</author>
-      <guid>https://josibake.github.io/page/about/</guid>
+      <guid>http://josibake.io/page/about/</guid>
       <description>With a background in Applied Mathematics and Physics, Josiah’s passion is for problem solving and optimization. His interest in data science came from learning to program and the landscape of problems that have yet to be solved.
 At work, Josiah’s interests are machine learning at scale, Neural Networks, and open source data science tooling. Josiah is also interested in and passionate about fostering the culture necessary to support data science.</description>
     </item>
     
     <item>
       <title>contributions</title>
-      <link>https://josibake.github.io/page/contributions/</link>
+      <link>http://josibake.io/page/contributions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>josiahfbaker@gmail.com (Josiah Baker)</author>
-      <guid>https://josibake.github.io/page/contributions/</guid>
+      <guid>http://josibake.io/page/contributions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>resume</title>
-      <link>https://josibake.github.io/page/resume/</link>
+      <link>http://josibake.io/page/resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>josiahfbaker@gmail.com (Josiah Baker)</author>
-      <guid>https://josibake.github.io/page/resume/</guid>
+      <guid>http://josibake.io/page/resume/</guid>
       <description>Data enthusiast with a background in applied mathematics and experience in machine learning, developing analytical models and working in big data environments. Passionate about teaching and fostering the culture and mindset needed to support data science. Devoted bayesian.
 Work Experience  2016-2017 Data Scientist, ForRent.com (Dominion Enterprises)
 Work with development to improve data collection and flow. Develop reports and models for sales team, from prospect recommendation to market insight</description>

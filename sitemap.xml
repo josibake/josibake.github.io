@@ -2,35 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://josibake.github.io/page/about/</loc>
+    <loc>http://josibake.io/page/about/</loc>
   </url>
   
   <url>
-    <loc>https://josibake.github.io/categories/</loc>
+    <loc>http://josibake.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://josibake.github.io/page/</loc>
+    <loc>http://josibake.io/page/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://josibake.github.io/tags/</loc>
+    <loc>http://josibake.io/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://josibake.github.io/page/contributions/</loc>
+    <loc>http://josibake.io/page/contributions/</loc>
   </url>
   
   <url>
-    <loc>https://josibake.github.io/</loc>
+    <loc>http://josibake.io/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://josibake.github.io/page/resume/</loc>
+    <loc>http://josibake.io/page/resume/</loc>
   </url>
   
 </urlset>
