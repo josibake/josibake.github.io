@@ -5,8 +5,8 @@
     <link>http://josibake.io/page/</link>
     <description>Recent content in Pages on josibake.io</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>josiahfbaker@gmail.com (Josiah Baker)</managingEditor>
-    <webMaster>josiahfbaker@gmail.com (Josiah Baker)</webMaster>
+    <managingEditor>me@josibake.io (Josiah Baker)</managingEditor>
+    <webMaster>me@josibake.io (Josiah Baker)</webMaster>
     
 	<atom:link href="http://josibake.io/page/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
       <title>About Josiah</title>
       <link>http://josibake.io/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>josiahfbaker@gmail.com (Josiah Baker)</author>
+      <author>me@josibake.io (Josiah Baker)</author>
       <guid>http://josibake.io/page/about/</guid>
       <description>With a background in Applied Mathematics and Physics, Josiah’s passion is for problem solving and optimization. His interest in data science came from learning to program and the landscape of problems that have yet to be solved.
 At work, Josiah’s interests are machine learning at scale, Neural Networks, and open source data science tooling. Josiah is also interested in and passionate about fostering the culture necessary to support data science.</description>
@@ -25,7 +25,7 @@ At work, Josiah’s interests are machine learning at scale, Neural Networks, an
       <title>contributions</title>
       <link>http://josibake.io/page/contributions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>josiahfbaker@gmail.com (Josiah Baker)</author>
+      <author>me@josibake.io (Josiah Baker)</author>
       <guid>http://josibake.io/page/contributions/</guid>
       <description></description>
     </item>
@@ -34,7 +34,7 @@ At work, Josiah’s interests are machine learning at scale, Neural Networks, an
       <title>resume</title>
       <link>http://josibake.io/page/resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>josiahfbaker@gmail.com (Josiah Baker)</author>
+      <author>me@josibake.io (Josiah Baker)</author>
       <guid>http://josibake.io/page/resume/</guid>
       <description>Data enthusiast with a background in applied mathematics and experience in machine learning, developing analytical models and working in big data environments. Passionate about teaching and fostering the culture and mindset needed to support data science. Devoted bayesian.
 Work Experience  2016-2017 Data Scientist, ForRent.com (Dominion Enterprises)
